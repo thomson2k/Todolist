@@ -1,11 +1,10 @@
 body {
   padding: 50px;
-  background-color: #81c2dc;
+  background-color: #DDCDFF;
   font-family: 'Titillium Web', sans-serif;
 }
 
 #container {
   display: flex;
   justify-content:flex;
-  
 }
